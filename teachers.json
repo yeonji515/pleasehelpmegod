@@ -1,0 +1,387 @@
+
+  {
+  "김대호": {
+    "subject": "역사",
+    "department": "교무기획부",
+    "class": null,
+    "office": "3층 제1교무실"
+  },
+  "서은진": {
+    "subject": "국어",
+    "department": "미래연구부",
+    "class": null,
+    "office": "3층 제1교무실"
+  },
+  "황하늬": {
+    "subject": "음악",
+    "department": "학생안전부",
+    "class": null,
+    "office": "1층 행정실 옆"
+  },
+  "정호윤": {
+    "subject": "영어",
+    "department": "교육과정부",
+    "class": null,
+    "office": "3층 제1교무실"
+  },
+  "엄기영": {
+    "subject": "영어",
+    "department": "인문사회부",
+    "class": null,
+    "office": "3층 제2교무실"
+  },
+  "박미정": {
+    "subject": "통과",
+    "department": "자연과학부",
+    "class": null,
+    "office": "3층 제2교무실"
+  },
+  "오정아": {
+    "subject": "체육",
+    "department": "예술체육부",
+    "class": null,
+    "office": "3층 제2교무실"
+  },
+  "배경미": {
+    "subject": "정보",
+    "department": "교육정보부",
+    "class": null,
+    "office": "2층 도서관 옆"
+  },
+  "김지현": {
+    "subject": "진로",
+    "department": "진로진학부",
+    "class": null,
+    "office": "4층"
+  },
+  "김혜선": {
+    "subject": "수학",
+    "department": "1학년부",
+    "class": "1학년 2반",
+    "office": "2층"
+  },
+  "송인필": {
+    "subject": "물리",
+    "department": "2학년부",
+    "class": null,
+    "office": "4층"
+  },
+  "유형우": {
+    "subject": "수학",
+    "department": "3학년부",
+    "class": null,
+    "office": "5층"
+  },
+  "이지수": {
+    "subject": "통사",
+    "department": "1학년부",
+    "class": "1학년 1반",
+    "office": "2층"
+  },
+  "유의영": {
+    "subject": "수학",
+    "department": "2학년부",
+    "class": "2학년 1반",
+    "office": "4층"
+  },
+  "최영주": {
+    "subject": "일사",
+    "department": "3학년부",
+    "class": "3학년 1반",
+    "office": "5층"
+  },
+  "강자은": {
+    "subject": "음악",
+    "department": "1학년부",
+    "class": "1학년 4반",
+    "office": "2층"
+  },
+  "김상길": {
+    "subject": "지학",
+    "department": "2학년부",
+    "class": "2학년 2반",
+    "office": "4층"
+  },
+  "이지우": {
+    "subject": "영어",
+    "department": "3학년부",
+    "class": "3학년 2반",
+    "office": "5층"
+  },
+  "안진희": {
+    "subject": "수학",
+    "department": "1학년부",
+    "class": "1학년 5반",
+    "office": "2층"
+  },
+  "김성혜": {
+    "subject": "생과",
+    "department": "2학년부",
+    "class": "2학년 3반",
+    "office": "4층"
+  },
+  "신선임": {
+    "subject": "국어",
+    "department": "3학년부",
+    "class": "3학년 3반",
+    "office": "5층"
+  },
+  "송유빈": {
+    "subject": "국어",
+    "department": "1학년부",
+    "class": "1학년 6반",
+    "office": "2층"
+  },
+  "성지은": {
+    "subject": "영어",
+    "department": "2학년부",
+    "class": "2학년 4반",
+    "office": "4층"
+  },
+  "장윤경": {
+    "subject": "국어",
+    "department": "3학년부",
+    "class": "3학년 4반",
+    "office": "5층"
+  },
+  "조성분": {
+    "subject": "통과",
+    "department": "1학년부",
+    "class": "1학년 7반",
+    "office": "2층"
+  },
+  "김가희A": {
+    "subject": "국어",
+    "department": "2학년부",
+    "class": "2학년 5반",
+    "office": "4층"
+  },
+  "남유정": {
+    "subject": "화학",
+    "department": "3학년부",
+    "class": "3학년 5반",
+    "office": "5층"
+  },
+  "남현지": {
+    "subject": "미술",
+    "department": "1학년부",
+    "class": "1학년 8반",
+    "office": "2층"
+  },
+  "성지영": {
+    "subject": "체육",
+    "department": "2학년부",
+    "class": "2학년 6반",
+    "office": "4층"
+  },
+  "도만구": {
+    "subject": "물리",
+    "department": "3학년부",
+    "class": "3학년 6반",
+    "office": "5층"
+  },
+  "김나연": {
+    "subject": "국어",
+    "department": "1학년부",
+    "class": "1학년 9반",
+    "office": "2층"
+  },
+  "강영미": {
+    "subject": "국어",
+    "department": "2학년부",
+    "class": "2학년 7반",
+    "office": "4층"
+  },
+  "이동현": {
+    "subject": "지학",
+    "department": "3학년부",
+    "class": "3학년 7반",
+    "office": "5층"
+  },
+  "김지연": {
+    "subject": "역사",
+    "department": "1학년부",
+    "class": "1학년 10반",
+    "office": "2층"
+  },
+  "조준": {
+    "subject": "중국어",
+    "department": "2학년부",
+    "class": "2학년 8반",
+    "office": "4층"
+  },
+  "강미현": {
+    "subject": "윤리",
+    "department": "3학년부",
+    "class": "3학년 8반",
+    "office": "5층"
+  },
+  "김가희B": {
+    "subject": "국어",
+    "department": "1학년부",
+    "class": "1학년 11반",
+    "office": "2층"
+  },
+  "주효진": {
+    "subject": "일사",
+    "department": "2학년부",
+    "class": "2학년 9반",
+    "office": "4층"
+  },
+  "문숙희": {
+    "subject": "국어",
+    "department": "3학년부",
+    "class": "3학년 9반",
+    "office": "5층"
+  },
+  "고태열": {
+    "subject": "기술",
+    "department": "1학년부",
+    "class": "1학년 12반",
+    "office": "2층"
+  },
+  "문주희": {
+    "subject": "윤리",
+    "department": "2학년부",
+    "class": "2학년 10반",
+    "office": "4층"
+  },
+  "호가영": {
+    "subject": "수학",
+    "department": "3학년부",
+    "class": "3학년 10반",
+    "office": "5층"
+  },
+  "편경림": {
+    "subject": "영어", 
+    "department": "교무기획부", 
+    "class": null, 
+    "office":"3층 제1교무실"
+  },
+  "김경희": {
+    "subject": "영어", 
+    "department": "미래연구부", 
+    "class": null,
+    "office": "3층 제1교무실"
+  },
+  "윤효근": {
+    "subject": "통사",
+    "department": "학생안전부",
+    "class":null,
+    "office": "1층 행정실 옆"
+  },
+  "한숙희": {
+    "subject": "지리",
+    "department": "교육과정부",
+    "class": null,
+    "office": "3층 제1교무실"
+  },  
+  "박병찬": {
+    "subject": "지리",
+    "department": "인문사회부",
+    "class": null, 
+    "office": "3층 제2교무실"
+  },
+  "이지선": {
+    "subject": "생과",
+    "department": "자연과학부",
+    "class": null,
+    "office": "3층 제2교무실"
+  },
+  "임종수": {
+    "subject": "체육",
+    "department": "예술체육부",
+    "class": null,
+    "office": "3층 제2교무실"
+  },
+  "김진옥": {
+    "subject": "화학",
+    "department": "교육정보부",
+    "class": null,
+    "office": "2층 도서관 옆"
+  },
+  "어경선": {
+    "subject": "수학",
+    "department": "진로진학부",
+    "class": null,
+    "office": "4층"
+       },
+  "김현미": {
+    "subject": "일사",
+    "department": "교무기획부",
+    "class": null,
+    "office": "3층 제1교무실"
+  },
+  "김지선": {
+    "subject": "수학",
+    "department": "미래연구부",
+    "class": null,
+    "office": "3층 제1교무실"
+  },
+  "김종규": {
+    "subject": "윤리",
+    "department": "학생안전부",
+    "class": null,
+    "office": "1층 행정실 옆"
+  },
+  "서은영": {
+    "subject": "일본어",
+    "department": "교육과정부",
+    "class": null,
+    "office": "3층 제1교무실"
+  },
+  "정고은": {
+    "subject": "보건",
+    "department": "예술체육부",
+    "class": null,
+    "office": "3층 제2교무실"
+  },
+  "이수정": {
+    "subject": "영양",
+    "department": "예술체육부",
+    "class": null,
+    "office": "3층 제2교무실"
+  },
+  "이유진": {
+    "subject": "영어",
+    "department": "교무기획부",
+    "class": null,
+    "office": "3층 제1교무실"
+  },
+  "이보향": {
+    "subject": "영어",
+    "department": "미래연구부",
+    "class": null,
+    "office": "3층 제1교무실"
+  },
+  "유호진": {
+     "subject": "체육", 
+     "department": "학생안전부", 
+     "class": null,
+     "office": "1층 행정실 옆"
+  },
+  "조영은": {
+    "subject": "수학", 
+    "department": "교무기획부",
+    "class": null,
+    "office": "3층 제1교무실"
+  },
+  "김아름": {
+    "subject": "상담", 
+    "department": "학생안전부", 
+    "class": null,
+    "office": "1층 행정실 옆"
+  },
+  "서산나": {
+    "subject": "특수",
+    "department": "교무기획부",
+    "class": null,
+    "office": "3층 제1교무실"
+    },
+  "김동건": {
+    "subject": "특수",
+    "department": "교무기획부",
+    "class": null,
+    "office": "3층 제1교무실"
+      }
+}
